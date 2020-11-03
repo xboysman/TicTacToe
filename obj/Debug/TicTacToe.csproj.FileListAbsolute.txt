@@ -1,0 +1,20 @@
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Speedy\Documents\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form_TicTacToe.resources
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form_TicTacToe.resources
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Speedy\Documents\Projects\_Beginners projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
